@@ -22,7 +22,7 @@ Image Captioning with Tensorflow
 ## DataSet Download
 
 I just use MS COCO 2017 DataSet. Training data  **18 GB**, Validation data is **777 MB**, Test data is **6.2 GB**.
-So i recommend that you should download DataSets on stable networks.
+So i recommend that you should download DataSets on a stable network.
 
 * link : http://cocodataset.org/#download
 
